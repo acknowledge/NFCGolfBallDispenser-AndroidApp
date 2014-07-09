@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Golf Wallet</string>
+    <string name="action_settings">APIs test</string>
+    <string name="action_logout">Logout</string>
+    <string name="servicedesc">Service description</string>
+    <string name="aiddescription">AID description</string>
+    <string name="title_activity_apitest">APITest</string>
+    
+    <string name="apitext">Try the APIs by pressing buttons</string>
+    
+    <string name="welcome">Welcome on Golf Wallet</string>
+    <string name="message">This app lets you buy golf balls with your smartphone.</string>
+    <string name="login">Log In</string>
+    <string name="signin">Sign In</string>
+    
+    <string name="title_activity_login">Login</string>
+    <string name="title_activity_signin">Sign in</string>
+
+    <!-- Strings related to login -->    
+    <string name="prompt_username">Username *</string>
+    <string name="prompt_name">Name</string>
+    <string name="prompt_surname">Surname</string>
+    <string name="prompt_password">Password *</string>
+    <string name="fields_required">* required fields</string>
+    <string name="action_log_in_register">Log me in</string>
+    <string name="action_log_in_short">Log in</string>
+    <string name="action_sign_in_register">Sign me in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="action_forgot_password">Recover lost password</string>
+    <string name="progress_logging_in">Logging in&#8230;</string>
+    <string name="progress_signing_in">Signing in&#8230;</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="error_username_already_taken">This username is already used</string>
+    
+
+</resources>
