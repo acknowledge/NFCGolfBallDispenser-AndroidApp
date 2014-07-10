@@ -1,7 +1,6 @@
 package com.golfwallet.nfc;
 
 import java.io.IOException;
-
 import android.nfc.tech.IsoDep;
 
 /** \brief Class IsoDepTransceiver.

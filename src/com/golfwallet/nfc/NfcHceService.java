@@ -1,7 +1,6 @@
 package com.golfwallet.nfc;
 
 import com.golfwallet.main.MainActivity;
-
 import android.nfc.cardemulation.HostApduService;
 import android.os.Bundle;
 import android.util.Log;
